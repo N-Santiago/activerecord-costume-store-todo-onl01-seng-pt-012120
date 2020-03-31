@@ -1,2 +1,2 @@
-class CreateHaunted < ActiveRecord::Base
+class HauntedHouse < ActiveRecord::Base
 end
