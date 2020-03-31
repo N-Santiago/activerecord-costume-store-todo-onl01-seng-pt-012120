@@ -1,4 +1,4 @@
-class CreateCustomes < ActiveRecord::Migration[5.1]
+class CreateCustomes < ActiveRecord::Migration[5.2]
   
   def change
    create_table :customes do |t|
